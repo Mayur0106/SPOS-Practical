@@ -1,4 +1,4 @@
-/* FCFS Practicla */
+/* FCFS Algorithm */
 
 import java.text.ParseException;
 public class FCFS{
