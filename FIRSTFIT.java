@@ -1,3 +1,5 @@
+/* FIRSTFIT Algorithm */
+
 import java.util.Arrays;
 public class FIRSTFIT{
     static void allocate(int []blocksize,int m,int []processsize,int n)
