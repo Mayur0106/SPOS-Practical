@@ -1,3 +1,5 @@
+/* RJF Algorithm */
+
 import java.util.Scanner;
 public class RJF {
     public static void main(String[] args)
