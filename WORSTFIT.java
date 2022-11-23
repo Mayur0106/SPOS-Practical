@@ -1,3 +1,5 @@
+/* WORSTFIT Algorithm */
+
 import java.util.Arrays;
 public class WORSTFIT {
      static void allocate(int []blocksize,int m,int []processsize,int n)
