@@ -1,3 +1,5 @@
+/* BESTFIT Algorithm */
+
 import java.util.Arrays;
 public class BESTFIT {
     static void allocate(int []blocksize,int m,int []processsize,int n)
