@@ -1,3 +1,5 @@
+/*  PRIORITY Algorithm */
+
 import java.util.Scanner;
 public class PRIORITY {
     public static void main(String[] args)
